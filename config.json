@@ -1,8 +1,0 @@
-{
-  "connections": {
-    "LocalMongo": {
-      "connection_string": "mongodb://root:pass@mongodb:27017",
-      "connection_options": {}
-    }
-  }
-}
